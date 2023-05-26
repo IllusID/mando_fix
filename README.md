@@ -5,7 +5,7 @@
 
 ## Deploy on Local Machine
 
-** Activate environment
+### Activate environment
 ```
 source mando-env/bin/activate
 ```
