@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.768ec3f3.css",
+    "main.js": "/static/js/main.e56242d4.js",
+    "static/js/787.e1c34efa.chunk.js": "/static/js/787.e1c34efa.chunk.js",
+    "static/media/front_running_buggy_29.sol": "/static/media/front_running_buggy_29.231ac92faa03c47ecf85.sol",
+    "static/media/time_manipulation_ether_lotto.sol": "/static/media/time_manipulation_ether_lotto.2fc6730bcd077eaf918f.sol",
+    "static/media/0xdb70deb4.sol": "/static/media/0x23a91059fdc9579a9fbd0edc5f2ea0bfdb70deb4.35f253263882fec80ad5.sol",
+    "static/media/access_control_mapping_write.sol": "/static/media/access_control_mapping_write.190a9005fbb1e4595921.sol",
+    "static/media/unchecked_low_level_calls_lotto.sol": "/static/media/unchecked_low_level_calls_lotto.12565303c12ad6a57ec4.sol",
+    "index.html": "/index.html",
+    "static/media/denial_of_service_dos_simple.sol": "/static/media/denial_of_service_dos_simple.33b9d47ae0c67d54354b.sol",
+    "static/media/arithmetic_integer_overflow_multitx_onefunc_feasible.sol": "/static/media/arithmetic_integer_overflow_multitx_onefunc_feasible.3f665e04a4561e9fa5b8.sol",
+    "static/media/arithmetic_integer_overflow_add.sol": "/static/media/arithmetic_integer_overflow_add.8055edf447d3e80fb57e.sol",
+    "main.768ec3f3.css.map": "/static/css/main.768ec3f3.css.map",
+    "main.e56242d4.js.map": "/static/js/main.e56242d4.js.map",
+    "787.e1c34efa.chunk.js.map": "/static/js/787.e1c34efa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768ec3f3.css",
+    "static/js/main.e56242d4.js"
+  ]
+}
