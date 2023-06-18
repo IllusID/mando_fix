@@ -9,6 +9,7 @@
 ```
 source mando-env/bin/activate
 ```
+(You might be wondering at this point why I am not removing the env folder because I don't want to resolve those issues or utilize the deprecated library or wait for the libraries installation. I simply want to clone and run in my computer. That's all!)
 
 ### Backend
 - Pull docker image from docker hub:
